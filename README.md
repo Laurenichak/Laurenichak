@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laurenichak
-- 👀 I’m a second year Computer Science student at Reichman university 
+- 👀 I’m a third year Computer Science student at Reichman university 
 - 🌱 I’m currently looking for a student position
 - 📫 Reach me at laurenichak@gmail.com
 - ⚡ Fun fact: love sports
